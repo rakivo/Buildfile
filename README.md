@@ -1,1 +1,1 @@
-# The author now working on [`rush`](https://github.com/rakivo/rush)
+# The author is now working on [`rush`](https://github.com/rakivo/rush)
